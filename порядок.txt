@@ -1,0 +1,6 @@
+
+Работа с гитом - git init, .gitignore (не забываем про node_modules/)
+Работа с npm - npm init -y, изменение package.json
+
+Работа с файлами - написание кода
+Установка пакетов - npm install name, git commmit package*.json
