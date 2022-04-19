@@ -9,8 +9,8 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-
   "dependencies": {
+    "react": "^18.0.0",
     "yup": "^0.32.11"
   }
 }
